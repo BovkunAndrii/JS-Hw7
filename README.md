@@ -1,1 +1,1 @@
-# JS-Hw7
+# GoIT JavaScript Course Homework
